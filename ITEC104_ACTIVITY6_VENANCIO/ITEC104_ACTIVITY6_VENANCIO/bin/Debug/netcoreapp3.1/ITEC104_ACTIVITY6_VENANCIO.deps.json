@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ITEC104_ACTIVITY6_VENANCIO/1.0.0": {
+        "runtime": {
+          "ITEC104_ACTIVITY6_VENANCIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITEC104_ACTIVITY6_VENANCIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

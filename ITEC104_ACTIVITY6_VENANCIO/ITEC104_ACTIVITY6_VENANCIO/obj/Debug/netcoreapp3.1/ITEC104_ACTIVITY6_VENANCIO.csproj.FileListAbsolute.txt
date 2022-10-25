@@ -1,0 +1,14 @@
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\obj\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.csproj.AssemblyReference.cache
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\obj\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\obj\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.AssemblyInfoInputs.cache
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\obj\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.AssemblyInfo.cs
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\obj\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.csproj.CoreCompileInputs.cache
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\bin\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.exe
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\bin\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.deps.json
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\bin\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.runtimeconfig.json
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\bin\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.runtimeconfig.dev.json
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\bin\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.dll
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\bin\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.pdb
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\obj\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.dll
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\obj\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.pdb
+D:\school tasks\data structure and algorithm\ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO\obj\Debug\netcoreapp3.1\ITEC104_ACTIVITY6_VENANCIO.genruntimeconfig.cache

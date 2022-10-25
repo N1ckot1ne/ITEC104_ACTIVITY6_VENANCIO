@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITEC104_ACTIVITY6_VENANCIO", "ITEC104_ACTIVITY6_VENANCIO\ITEC104_ACTIVITY6_VENANCIO.csproj", "{B5060009-6B50-4BF5-A9E0-0F229B74A9E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5060009-6B50-4BF5-A9E0-0F229B74A9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5060009-6B50-4BF5-A9E0-0F229B74A9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5060009-6B50-4BF5-A9E0-0F229B74A9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5060009-6B50-4BF5-A9E0-0F229B74A9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548B6928-B311-4C5D-B8B3-33AA3DB542F1}
+	EndGlobalSection
+EndGlobal
